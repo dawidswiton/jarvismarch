@@ -1,4 +1,4 @@
-package jarvismarch;
+package com.dawidswiton.jarvismarch;
 
 /**
  *

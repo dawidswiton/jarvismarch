@@ -1,4 +1,4 @@
-package jarvismarch;
+package com.dawidswiton.jarvismarch;
 
 import java.util.ArrayList;
 import java.util.List;
