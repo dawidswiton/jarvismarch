@@ -1,3 +1,4 @@
+[![CodeQL](https://github.com/dawidswiton/jarvismarch/actions/workflows/codeql.yml/badge.svg)](https://github.com/dawidswiton/jarvismarch/actions/workflows/codeql.yml)
 # jarvismarch
 Convex Hull algorithm
 
